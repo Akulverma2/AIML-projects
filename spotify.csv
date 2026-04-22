@@ -1,0 +1,63 @@
+track_name,artist,danceability,energy,valence,tempo
+Tum Hi Ho,Arijit Singh,0.45,0.55,0.30,120
+Channa Mereya,Arijit Singh,0.40,0.50,0.25,110
+Ae Dil Hai Mushkil,Arijit Singh,0.42,0.58,0.28,118
+Phir Le Aya Dil,Arijit Singh,0.38,0.48,0.22,105
+
+Raabta,Arijit Singh,0.55,0.60,0.65,128
+Kesariya,Arijit Singh,0.60,0.65,0.75,130
+Shayad,Arijit Singh,0.50,0.55,0.60,122
+Apna Bana Le,Arijit Singh,0.58,0.62,0.70,125
+Tera Yaar Hoon Main,Arijit Singh,0.52,0.57,0.68,123
+Khairiyat,Arijit Singh,0.48,0.54,0.50,119
+Janam Janam,Arijit Singh,0.58,0.63,0.78,126
+Gerua,Arijit Singh,0.57,0.62,0.77,127
+Tum Kya Mile,Arijit Singh,0.60,0.66,0.82,128
+O Bedardeya,Arijit Singh,0.48,0.56,0.55,118
+
+Raataan Lambiyan,Jubin Nautiyal,0.62,0.68,0.78,132
+Ranjha,Jasleen Royal,0.58,0.60,0.72,124
+Heeriye,Jasleen Royal,0.64,0.70,0.85,134
+Tere Vaaste,Varun Jain,0.60,0.67,0.80,128
+Ve Maahi,Arijit Singh,0.56,0.61,0.74,126
+Dil Diyan Gallan,Atif Aslam,0.56,0.60,0.80,124
+Jeene Laga Hoon,Atif Aslam,0.58,0.63,0.75,128
+Pehli Nazar Mein,Atif Aslam,0.55,0.60,0.70,125
+Main Rang Sharbaton Ka,Atif Aslam,0.52,0.58,0.68,122
+Bol Do Na Zara,Armaan Malik,0.60,0.65,0.72,130
+Sab Tera,Armaan Malik,0.57,0.62,0.73,126
+Hasi,Banita Sandhu,0.54,0.58,0.70,120
+Nazm Nazm,Arko,0.50,0.55,0.68,118
+Kaun Tujhe,Palak Muchhal,0.48,0.52,0.72,115
+
+Perfect,Ed Sheeran,0.48,0.50,0.92,95
+All of Me,John Legend,0.45,0.40,0.88,90
+Love Nwantiti,CKay,0.75,0.70,0.90,140
+Until I Found You,Stephen Sanchez,0.50,0.45,0.85,102
+Let Me Love You,Justin Bieber,0.70,0.75,0.88,130
+Stay,The Kid LAROI,0.72,0.78,0.86,140
+Thinking Out Loud,Ed Sheeran,0.60,0.55,0.90,118
+Photograph,Ed Sheeran,0.52,0.48,0.80,108
+Yellow,Coldplay,0.50,0.45,0.85,100
+Say You Won't Let Go,James Arthur,0.55,0.50,0.88,110
+
+Metamorphosis,INTERWORLD,0.80,0.90,0.85,150
+Close Eyes,DVRST,0.78,0.88,0.80,148
+RAVE,Dxrk ダーク,0.82,0.92,0.88,155
+Phonky Town,Playaphonk,0.85,0.95,0.90,160
+NEON BLADE,MoonDeity,0.83,0.91,0.87,152
+Murder In My Mind,Kordhell,0.79,0.89,0.82,149
+Override,KSLV Noh,0.84,0.93,0.89,158
+Vendetta,MUPP,0.86,0.94,0.91,162
+Shadow,ONIMXRU,0.81,0.90,0.85,150
+After Dark,Mr.Kitty,0.70,0.75,0.65,135
+
+Blinding Lights,The Weeknd,0.75,0.85,0.95,170
+Levitating,Dua Lipa,0.80,0.88,0.96,160
+Shape of You,Ed Sheeran,0.82,0.87,0.93,172
+Senorita,Shawn Mendes,0.76,0.78,0.90,117
+Havana,Camila Cabello,0.78,0.80,0.91,105
+Attention,Charlie Puth,0.74,0.82,0.88,120
+Cheap Thrills,Sia,0.77,0.79,0.89,115
+Believer,Imagine Dragons,0.65,0.85,0.70,125
+Thunder,Imagine Dragons,0.70,0.80,0.75,130
